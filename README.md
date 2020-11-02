@@ -29,3 +29,8 @@ Vue CLI v4.5.8
 * add "vuetify" compilerOptions.types in tsconfig.json
 
 * Initial Commit at this point.
+
+## License
+
+* MIT
+  + see LICENSE
